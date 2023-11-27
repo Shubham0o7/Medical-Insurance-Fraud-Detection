@@ -21,19 +21,5 @@ i. Claims whose payable amounts are greater than the invoice amounts that the in
 
 
 #### Here's the process followed to carry this project: 
-1. Understanding the problem
-
-2. Collect Data
-
-3. Clean and Process Data
-
-4. Exploratory Data Analysis
-
-5. Choose an Analytical Model
-
-6. Implement the Analytical Models
-
-7. Interpret the results
-
-8. Draw conclusions and make recommendations
+Understanding the problem >> Collect Data >> Clean and Process Data >> Exploratory Data Analysis >> Choose an Analytical Model >> Implement the Analytical Models >> Interpret the results >> Draw conclusions and make recommendations
 
