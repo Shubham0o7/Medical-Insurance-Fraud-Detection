@@ -20,12 +20,20 @@ h. Excessive numbers of manual invoice demand whose amounts are smaller than the
 i. Claims whose payable amounts are greater than the invoice amounts that the insurance company will pay.
 
 
-Here's the process followed to carry this project: 
+#### Here's the process followed to carry this project: 
 1. Understanding the problem
+
 2. Collect Data
+
 3. Clean and Process Data
+
 4. Exploratory Data Analysis
+
 5. Choose an Analytical Model
+
 6. Implement the Analytical Models
+
 7. Interpret the results
+
 8. Draw conclusions and make recommendations
+
