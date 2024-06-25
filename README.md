@@ -1,6 +1,8 @@
 # Medical-Insurance-Fraud-Detection-Minor-Project-II
 
 Medical insurance fraud is a serious problem that can cost insurance companies and patients billions of dollars each year. Some known fraud types in health insurance sector are as follows: 
+
+
 a. Charging excessive prices for a treatment or medicine in a health center.
 
 b. An unusually high number of invoices for a particular insurer in a short time frame.
