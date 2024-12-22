@@ -6,7 +6,7 @@ This project focuses on developing machine learning models to detect fraudulent 
 
 This overview emphasizes the critical nature of medical insurance fraud detection and highlights the project's objective of mitigating this issue through the use of machine learning.
 
-## project Features: 
+## Project Features: 
 * Data sources: THe dataset contains insurance claims data, patient records, provider information. 
 * Machine learning models: It uses decision trees, random forests, support vector machines, principal component analysis algorithms to train model.
 * Fraud detection techniques: outlier detection, pattern recognition, anomaly detection, network analysis.
