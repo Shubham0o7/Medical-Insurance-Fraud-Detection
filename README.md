@@ -1,6 +1,6 @@
 # 🏥 Intelligent Healthcare Fraud Detection Platform
 
-An end-to-end Deep Learning and Forensic Analytics framework designed to identify anomalous and potentially fraudulent billing patterns across healthcare provider networks. This repository features a high-performance Artificial Neural Network (ANN) trained on statistically optimized provider aggregates and deployed via a real-time Streamlit executive dashboard.
+An end-to-end Deep Learning Analytics framework designed to identify anomalous and potentially fraudulent billing patterns across healthcare provider networks. This repository features a high-performance Artificial Neural Network (ANN) trained on statistically optimized provider aggregates and deployed via a real-time Streamlit executive dashboard.
 
 ---
 
